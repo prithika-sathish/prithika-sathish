@@ -20,10 +20,8 @@ Always learning, always shipping.
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 
+<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="350">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prithika-sathish&show_icons=true&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=prithika-sathish&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prithika-sathish&theme=tokyonight)
 
 
 <img align="right" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="210">
