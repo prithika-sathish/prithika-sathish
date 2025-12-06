@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Prithika Sathish  
+CS and Business Systems  
+Developer with an eye for product, data, and real world problem solving  
 
-<!--
-**prithika-sathish/prithika-sathish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=prithika-sathish)
 
-Here are some ideas to get you started:
+## About me
+I build smart systems, automate workflows, explore AI, and create solutions that scale.  
+Always learning, always shipping.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with  
+![Python](https://img.shields.io/badge/Python-FFD43B?logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react)
+![Node](https://img.shields.io/badge/Node-339933?logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+
+## Fun stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prithika-sathish&show_icons=true&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=prithika-sathish&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prithika-sathish&theme=tokyonight)
+
+
+<img align="right" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="210">
+
+I love mixing tech with business thinking  
+I enjoy breaking complex problems into simple systems  
+I believe consistency beats talent  
+
