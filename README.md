@@ -19,4 +19,3 @@ Always learning, always shipping.
 
 I love mixing tech with business thinking  
 I enjoy breaking complex problems into simple systems  
-I believe consistency beats talent  
