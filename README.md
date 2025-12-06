@@ -1,5 +1,5 @@
 # Hi, I'm Prithika Sathish  
-CS and Business Systems  
+Pursuing undergraduation in Computer Science 
 Developer with an eye for product, data, and real world problem solving  
 
 
