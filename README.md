@@ -2,7 +2,6 @@
 CS and Business Systems  
 Developer with an eye for product, data, and real world problem solving  
 
-![Profile Views](https://komarev.com/ghpvc/?username=prithika-sathish)
 
 ## About me
 I build smart systems, automate workflows, explore AI, and create solutions that scale.  
@@ -19,6 +18,12 @@ Always learning, always shipping.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+
+## Skills  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,mysql,git,docker,html,css" />
+</p>
+
 
 <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="350">
 
