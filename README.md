@@ -13,11 +13,9 @@ Always learning, always shipping.
 </p>
 
 
-<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="350">
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350">
 
 
-
-<img align="right" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="210">
 
 I love mixing tech with business thinking  
 I enjoy breaking complex problems into simple systems  
