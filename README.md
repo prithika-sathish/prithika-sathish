@@ -1,6 +1,6 @@
 # Hi, I'm Prithika Sathish  
 Pursuing undergraduation in Computer Science 
-Developer with an eye for product, data, and real world problem solving  
+Developer with an eye for product, data, and problem solving  
 
 
 ## About me
